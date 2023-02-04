@@ -10,6 +10,6 @@ Google Play Store team is about to launch a new feature wherein, certain apps th
 5. Performing bivariate analysis
 6. Data pre-processsing
 7. Model building
-   Use linear regression as the technique
-   Report the R2 on the train set
+   a. Use linear regression as the technique
+   b. Report the R2 on the train set
 8.Make predictions on test set and report R2.
